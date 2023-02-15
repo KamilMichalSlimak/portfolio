@@ -14,7 +14,7 @@
 * regression testing
 * preparing reports and test plans
 * working in Scrum framework
-* preparing automation scrips in Selenium Webdriver for Java (Page Object Pattern)
+* preparing automation scripts in Selenium Webdriver for Java (Page Object Pattern)
 ## Courses
  * **CodersLab - Automated Testing (October 2022 - January 2023)**
  * **CodersLab - Manual testing (August 2022 - October 2022)**
