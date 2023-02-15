@@ -14,10 +14,10 @@
 * regression testing
 * preparing reports and test plans
 * working in Scrum framework
-* preparing automation scrips in Selenium Webdriver for Java ( Page Object Pattern )
+* preparing automation scrips in Selenium Webdriver for Java (Page Object Pattern)
 ## Courses
- * **CodersLab - Automated Testing ( October 2022 - January 2023 )**
- * **CodersLab - Manual testing ( August 2022 - October 2022 )**
+ * **CodersLab - Automated Testing (October 2022 - January 2023)**
+ * **CodersLab - Manual testing (August 2022 - October 2022)**
 ## Certifications
-* **ISTQB Certified Tester Foundation Level ( issued January 2023 )**
-* **CAE Certificate in Advanced English ( issued July 2021 )**
+* **ISTQB Certified Tester Foundation Level (issued January 2023)**
+* **CAE Certificate in Advanced English (issued July 2021)**
