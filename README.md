@@ -16,7 +16,7 @@
 * working in Scrum framework
 * preparing automation scripts in Selenium Webdriver for Java (Page Object Pattern)
 ## Courses
- * **CodersLab - Automated Testing (October 2022 - January 2023)**
+ * **CodersLab - Automation Testing (October 2022 - January 2023)**
  * **CodersLab - Manual testing (August 2022 - October 2022)**
 ## Certifications
 * **ISTQB Certified Tester Foundation Level (issued January 2023)**
