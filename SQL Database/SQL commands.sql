@@ -38,4 +38,3 @@ SELECT * FROM orders LEFT JOIN suppliers ON orders.id = suppliers.id;
 SELECT first_name, shipped_date, order_date FROM customers LEFT JOIN orders ON customers.id = orders.id;
 SELECT invoice_date AS data_faktury, payment_date AS data_platnosci FROM invoices LEFT JOIN purchase_orders ON invoices.id = purchase_orders.id;
 SELECT last_name, job_title, order_date FROM orders RIGHT JOIN employees ON orders.id = employees.id;
-SELECT 
